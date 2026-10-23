@@ -22,9 +22,7 @@ The application allows users to enter patient health attributes and view a model
 - Clean, healthcare-inspired Streamlit interface
 - Medical disclaimer for responsible use
 
-## 🖥️ Application Preview
-
-Add a screenshot of your running application to your repository as `assets/app-screenshot.png`, then display it here:
+## 🖥️ Application Preview:
 
 ![Heart Disease Prediction App](assets/app-screenshot.png)
 
