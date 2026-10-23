@@ -26,11 +26,11 @@ The application allows users to enter patient health attributes and view a model
 
 ### Patient Input Interface
 
-![Heart Disease Prediction - Input Form](Screenshot%202026-10-23%20144222.png)
+![Heart Disease Prediction - Lower-Risk-Patient](Screenshot%202026-10-23%20144222.png)
 
 ### Prediction Results
 
-![Heart Disease Prediction - Results](Screenshot%202026-10-23%20144307.png)
+![Heart Disease Prediction - higher-Risk-Patient](Screenshot%202026-10-23%20144307.png)
 
 ## ⚙️ How It Works
 
