@@ -22,9 +22,15 @@ The application allows users to enter patient health attributes and view a model
 - Clean, healthcare-inspired Streamlit interface
 - Medical disclaimer for responsible use
 
-## 🖥️ Application Preview:
+## 🖥️ Application Preview
 
-![Heart Disease Prediction App](Screenshot 2026-10-23 144222.png)
+### Patient Input Interface
+
+![Heart Disease Prediction - Input Form](Screenshot%202026-10-23%20144222.png)
+
+### Prediction Results
+
+![Heart Disease Prediction - Results](Screenshot%202026-10-23%20144307.png)
 
 ## ⚙️ How It Works
 
