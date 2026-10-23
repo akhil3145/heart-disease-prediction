@@ -24,7 +24,7 @@ The application allows users to enter patient health attributes and view a model
 
 ## 🖥️ Application Preview:
 
-![Heart Disease Prediction App](assets/app-screenshot.png)
+![Heart Disease Prediction App](Screenshot 2026-10-23 144222.png)
 
 ## ⚙️ How It Works
 
